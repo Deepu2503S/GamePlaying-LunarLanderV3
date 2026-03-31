@@ -17,8 +17,7 @@ Policies are evaluated using environment rewards
 Best policies guide the swarm
 Final output = best-performing policy
 
-**
-⚙️ Installation**
+**⚙️ Installation**
 
 Make sure you have Python 3.8+ installed.
 
@@ -104,7 +103,7 @@ Logging with TensorBoard
 OpenAI Gym / Gymnasium
 Box2D physics engine
 
-**👨‍💻 Author**
+**👨‍💻 Author:** 
 Deepanshu Singh
 B.Tech CSE
 IIIT Guwahati
